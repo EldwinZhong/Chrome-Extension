@@ -1,0 +1,10 @@
+{
+    "name": "Time Zone Converter",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Extension that shows a city's timezone",
+    "action": {
+        "default_icon": {"48": "icon.png"},
+        "default_popup": "index.html"
+    }
+}
